@@ -4,7 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBqMG0zaGQ3cndycWZvdnV1Znk3M2tpb3Flb2NpdzU5OWI0bWh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif"  />
 
 ###
 

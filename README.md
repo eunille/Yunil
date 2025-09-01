@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Eunille Jan!<br>🚀 Aspiring Tech Enthusiast | Computer Science Student<br><br>📚 I'm currently learning and expanding my skills through hands-on projects and collaborative work. I believe in the power of continuous learning and staying curious consistent.<br><br>💬 Let's connect and create impactful solutions together!</h3>
+<h3 align="center">👋 Hi, I'm Eunille Jan!<br> Aspiring Tech Enthusiast | Computer Science Student<br><br>📚 I'm currently learning and expanding my skills through hands-on projects and collaborative work. I believe in the power of continuous learning and staying curious consistent.<br><br>💬 Let's connect and create impactful solutions together!</h3>
 
 ###
 
